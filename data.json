@@ -1,0 +1,32 @@
+{
+  "products":["Milk, Banana, Carrots, Chips"],
+  "inventory":[
+    {
+      "product": "Milk",
+      "id": 28836,
+      "quantity": 2,
+      "type": "dairy",
+      "store": "Costco",
+      "aisle": 5,
+      "price": 9.9
+    },
+    {
+      "product": "Banana",
+      "id": 99304,
+      "quantity": 50,
+      "type": "vegetables",
+      "store": "Shufersal",
+      "aisle": 2,
+      "price": 2.9
+    },
+    {
+      "product": "Ice Cream",
+      "id": 74885,
+      "type": "dairy",
+      "quantity": 20,
+      "store": "Adonis",
+      "aisle": 5,
+      "price": 10.5
+    }
+  ]
+}
