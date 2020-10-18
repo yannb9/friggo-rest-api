@@ -1,6 +1,8 @@
 {
-  "products":["Milk, Banana, Carrots, Chips"],
-  "inventory":[
+  "products": [
+    "Milk, Banana, Carrots, Chips"
+  ],
+  "inventory": [
     {
       "product": "Milk",
       "id": 28836,
