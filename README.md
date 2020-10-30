@@ -1,6 +1,6 @@
 # friggo-rest-api
 
-##Overview
+## Overview
 Simple Rest API that returns a json with two parameters: products and inventory
 The product method returns an array of products and the inventory method returns an array of objects.
 
